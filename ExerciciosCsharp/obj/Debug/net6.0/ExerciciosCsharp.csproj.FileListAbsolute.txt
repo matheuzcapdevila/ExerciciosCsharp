@@ -1,0 +1,15 @@
+C:\Users\Matheus\Desktop\Cursos\DIO\Exercicios c#\ExerciciosCsharp\ExerciciosCsharp\obj\Debug\net6.0\ExerciciosCsharp.csproj.AssemblyReference.cache
+C:\Users\Matheus\Desktop\Cursos\DIO\Exercicios c#\ExerciciosCsharp\ExerciciosCsharp\obj\Debug\net6.0\ExerciciosCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus\Desktop\Cursos\DIO\Exercicios c#\ExerciciosCsharp\ExerciciosCsharp\obj\Debug\net6.0\ExerciciosCsharp.AssemblyInfoInputs.cache
+C:\Users\Matheus\Desktop\Cursos\DIO\Exercicios c#\ExerciciosCsharp\ExerciciosCsharp\obj\Debug\net6.0\ExerciciosCsharp.AssemblyInfo.cs
+C:\Users\Matheus\Desktop\Cursos\DIO\Exercicios c#\ExerciciosCsharp\ExerciciosCsharp\obj\Debug\net6.0\ExerciciosCsharp.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Desktop\Cursos\DIO\Exercicios c#\ExerciciosCsharp\ExerciciosCsharp\bin\Debug\net6.0\ExerciciosCsharp.exe
+C:\Users\Matheus\Desktop\Cursos\DIO\Exercicios c#\ExerciciosCsharp\ExerciciosCsharp\bin\Debug\net6.0\ExerciciosCsharp.deps.json
+C:\Users\Matheus\Desktop\Cursos\DIO\Exercicios c#\ExerciciosCsharp\ExerciciosCsharp\bin\Debug\net6.0\ExerciciosCsharp.runtimeconfig.json
+C:\Users\Matheus\Desktop\Cursos\DIO\Exercicios c#\ExerciciosCsharp\ExerciciosCsharp\bin\Debug\net6.0\ExerciciosCsharp.dll
+C:\Users\Matheus\Desktop\Cursos\DIO\Exercicios c#\ExerciciosCsharp\ExerciciosCsharp\bin\Debug\net6.0\ref\ExerciciosCsharp.dll
+C:\Users\Matheus\Desktop\Cursos\DIO\Exercicios c#\ExerciciosCsharp\ExerciciosCsharp\bin\Debug\net6.0\ExerciciosCsharp.pdb
+C:\Users\Matheus\Desktop\Cursos\DIO\Exercicios c#\ExerciciosCsharp\ExerciciosCsharp\obj\Debug\net6.0\ExerciciosCsharp.dll
+C:\Users\Matheus\Desktop\Cursos\DIO\Exercicios c#\ExerciciosCsharp\ExerciciosCsharp\obj\Debug\net6.0\ref\ExerciciosCsharp.dll
+C:\Users\Matheus\Desktop\Cursos\DIO\Exercicios c#\ExerciciosCsharp\ExerciciosCsharp\obj\Debug\net6.0\ExerciciosCsharp.pdb
+C:\Users\Matheus\Desktop\Cursos\DIO\Exercicios c#\ExerciciosCsharp\ExerciciosCsharp\obj\Debug\net6.0\ExerciciosCsharp.genruntimeconfig.cache
